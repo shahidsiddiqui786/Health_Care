@@ -1,0 +1,14 @@
+{
+  /*eslint linebreak-style: ["error", "windows"]*/
+  "extends": [
+    "semistandard",
+    "@infermedica/eslint-config-vue"
+  ],
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "rules": {
+    "linebreak-style":0
+  }
+}
